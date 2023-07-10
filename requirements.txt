@@ -12,3 +12,8 @@ pymssql
 IPython
 ipykernel
 azure-search-documents
+azure.core
+azure.kusto.data
+azure-synapse-spark
+pypdf
+unstructured
