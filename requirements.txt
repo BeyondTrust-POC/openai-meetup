@@ -1,0 +1,14 @@
+pandas
+tiktoken
+scikit-learn
+python-dotenv
+matplotlib
+plotly
+langchain==0.0.187
+openai==0.27.6
+pypdf
+faiss-cpu
+pymssql
+IPython
+ipykernel
+azure-search-documents
